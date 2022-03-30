@@ -8,6 +8,6 @@ package com.mycompany.holamundo;//comentario
 public class HolaMundo {
 
     public static void main(String[] args) {//clase publica 
-        System.out.println("Hello World!");
+        System.out.println("hola mundo de github");
     }
 }
